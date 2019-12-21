@@ -1,5 +1,5 @@
 # 加州旅游 
-
+从College Station出发驾车到Houston，然后坐飞机往返Los Angeles.
 
 ## 衣食住行
 ### 衣（购物）
