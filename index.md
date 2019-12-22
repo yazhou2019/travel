@@ -19,7 +19,7 @@
 6. 2020-01-04: 希尔顿逸林酒店 - 热带赌场渡假村 (Tropicana Las Vegas - a DoubleTree by Hilton Hotel)
 7. 2020-01-05: (check-out) 希尔顿逸林酒店 - 热带赌场渡假村 (Tropicana Las Vegas - a DoubleTree by Hilton Hotel), (check-in) 洛杉矶机场霍索恩智选假日酒店 (Holiday Inn Express Los Angeles Airport Hawthorne) 
 7. 2020-01-05: (check-out) 希尔顿逸林酒店 - 热带赌场渡假村 (Tropicana Las Vegas - a DoubleTree by Hilton Hotel) 
-8. 2020-01-06: (check-out) 洛杉矶机场霍索恩智选假日酒店 (Holiday Inn Express Los Angeles Airport Hawthorne) 
+8. 2020-01-06: (check-out) (自助早餐)洛杉矶机场霍索恩智选假日酒店 (Holiday Inn Express Los Angeles Airport Hawthorne) 
 
 ### 行
 1. 2019-12-30（取车）: 12点以前开车到休斯顿， 12点50坐飞机，下午3点到洛杉矶，然后3点45取车
