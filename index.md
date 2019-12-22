@@ -1,5 +1,5 @@
 # 加州旅游 
-从College Station出发驾车到Houston，然后坐飞机往返Los Angeles.
+从College Station出发驾车到Houston，然后坐飞机往返Houston乔治布什机场和Los Angeles国际机场。
 
 ## 衣食住行
 ### 衣（购物）
@@ -11,7 +11,10 @@
 3. 晚餐：酒店或景点附近
 
 ### 住 (酒店)
-
+1. 2019-12-30(check-in): 库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga)
+2. 2019-12-31: 库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga)
+3. 2020-01-01: 库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga)
+4. 2020-01-02(chech-out): 库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga)
 ### 行
 
 #### 驾车
@@ -38,7 +41,7 @@
 
 ## 时间表
 1. 2019-12-30: 12:57:00 -- 14:52:00 休斯敦(乔治布什国际机场A)-洛杉矶(洛杉矶国际机场)
-2. 2019-12-31:
+2. 2019-12-31: 
 3. 2020-01-01:
 4. 2020-01-02:
 5. 2020-01-03:
