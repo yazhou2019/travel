@@ -28,7 +28,7 @@
 ##### 洛杉矶
 1. 粉红墙，Made in LA,
 2. 好莱坞星光大道, oue Skyspace的顶楼粉红色翅膀(透明玻璃)和高楼溜滑梯（Skyslide），
-3， Santa monica 海滩摩天轮， 威尼斯(Venice)海滩逛街，
+3. 莫妮卡码头(Santa monica pier)的摩天轮， 威尼斯(Venice)海滩逛街，
 4. 
 
 
