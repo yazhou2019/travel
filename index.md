@@ -28,10 +28,12 @@
 ##### 洛杉矶
 1. 粉红墙，Made in LA,
 2. 好莱坞星光大道, oue Skyspace的顶楼粉红色翅膀(透明玻璃)和高楼溜滑梯（Skyslide），
-3. 莫妮卡码头(Santa monica pier)的摩天轮， 威尼斯(Venice)海滩逛街，
+3. 莫妮卡码头(Santa monica pier)的摩天轮, 威尼斯(Venice)海滩逛街，
 4. 橙县: Newport beach的Balboa Island, OC Fair 橙县园游会
 5. 1号公路沿海
-
+6. 沙漠景观约书亚树国家公园(Joshua Tree), 距离洛杉矶2小时40分钟
+7. 巨木森林美洲杉国家公园(Sequoia), 距离洛杉矶4个小时
+8. d
 
 
 ## 时间表
