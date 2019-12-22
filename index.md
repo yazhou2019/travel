@@ -23,8 +23,10 @@
 1. 拉斯维加斯: 死亡谷国家公园 (Death Valle National Park), 距离拉斯维加斯2小时 
 2. 拉斯维加斯: 红岩峡谷国家保护区 (Red rock canyon national reserve ), 距离拉斯维加斯30分钟 
 3. 拉斯维加斯: 胡佛水坝 (Hoover Dam), 距离拉斯维加斯50分钟 
-##### 洛杉矶
 4. 红杉树国家公园 
+##### 洛杉矶
+1. 粉红墙，Made in LA,
+
 
 
 ## 时间表
