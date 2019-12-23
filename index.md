@@ -15,9 +15,9 @@
 2. 2019-12-31: (全套早餐)库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga)
 3. 2020-01-01: (全套早餐)库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga)
 4. 2020-01-02: (check-out)(全套早餐)库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga), (check-in) （早餐约15刀每人）威尼斯拉斯维加斯度假村 (The Venetian Resort Las Vegas)
-5. 2020-01-03: (check-out)（早餐约15刀每人）威尼斯拉斯维加斯度假村 (The Venetian Resort Las Vegas), (check-in) 希尔顿逸林酒店 - 热带赌场渡假村 (Tropicana Las Vegas - a DoubleTree by Hilton Hotel)
-6. 2020-01-04: 希尔顿逸林酒店 - 热带赌场渡假村 (Tropicana Las Vegas - a DoubleTree by Hilton Hotel)
-7. 2020-01-05: (check-out) 希尔顿逸林酒店 - 热带赌场渡假村 (Tropicana Las Vegas - a DoubleTree by Hilton Hotel), (check-in) 洛杉矶机场霍索恩智选假日酒店 (Holiday Inn Express Los Angeles Airport Hawthorne) 
+5. 2020-01-03: (check-out)（早餐约15刀每人）威尼斯拉斯维加斯度假村 (The Venetian Resort Las Vegas), (check-in) (收费早餐)希尔顿逸林酒店 - 热带赌场渡假村 (Tropicana Las Vegas - a DoubleTree by Hilton Hotel)
+6. 2020-01-04: (收费早餐)希尔顿逸林酒店 - 热带赌场渡假村 (Tropicana Las Vegas - a DoubleTree by Hilton Hotel)
+7. 2020-01-05: (check-out) (收费早餐)希尔顿逸林酒店 - 热带赌场渡假村 (Tropicana Las Vegas - a DoubleTree by Hilton Hotel), (check-in) (自助早餐)洛杉矶机场霍索恩智选假日酒店 (Holiday Inn Express Los Angeles Airport Hawthorne) 
 8. 2020-01-06: (check-out) (自助早餐)洛杉矶机场霍索恩智选假日酒店 (Holiday Inn Express Los Angeles Airport Hawthorne) 
 
 ### 行
