@@ -10,7 +10,7 @@
 2. 午餐：酒店或景点附近
 3. 晚餐：酒店或景点附近
 
-### 住 (酒店, hotel)
+### 住 (酒店, hotel)（均为免费停车，免费WI-FI）
 1. 2019-12-30: (check-in)(全套早餐)库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga)
 2. 2019-12-31: (全套早餐)库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga)
 3. 2020-01-01: (全套早餐)库卡蒙加牧场贝斯特韦斯特赫利泰治酒店 (Best Western Plus Heritage Inn Rancho Cucamonga)
