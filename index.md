@@ -1,5 +1,6 @@
 # 加州旅游 
-从College Station出发驾车到Houston，然后坐飞机往返Houston乔治布什机场和Los Angeles国际机场。
+从College Station出发驾车到Houston，然后坐飞机往返Houston乔治布什机场和Los Angeles国际机场。其他时间住在College Station。
+
 
 ## 衣食住行
 ### 衣（购物）
